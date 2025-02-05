@@ -171,7 +171,7 @@
 
 		    				                       mail($para, $asunto, $cuerpo,$adicional );
 		    				                    ?>
-		    				                     <p>Envio ezitoso</p>
+		    				                     <p>Envio exitoso</p>
 		    				                    <?php
 		    									
 		    									}
